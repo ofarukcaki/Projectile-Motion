@@ -1,4 +1,6 @@
 # Projectile-Motion
+### Kocaeli University Physics-I Homework
+
 Projectile Motion in Physics with graphics. Written in both C and Python separataly.
 Free to use
 
